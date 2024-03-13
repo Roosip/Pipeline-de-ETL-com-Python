@@ -18,7 +18,7 @@
     "news": [
       {
         "id": 9,
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "icon": "",
         "description": "Pyterson, invista hoje para garantir um futuro seguro e pr\u00f3spero. Seu futuro agradece!"
       }
     ]
@@ -42,7 +42,7 @@
     "news": [
       {
         "id": 10,
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "icon": "",
         "description": "Invista hoje para um futuro seguro e est\u00e1vel, Pip. O seu futuro financeiro depende disso!"
       }
     ]
@@ -66,7 +66,7 @@
     "news": [
       {
         "id": 11,
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "icon": "",
         "description": "Oi Pep, investir \u00e9 a chave para multiplicar seu dinheiro. N\u00e3o deixe sua grana parada!"
       }
     ]
@@ -90,7 +90,7 @@
     "news": [
       {
         "id": 12,
-        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "icon": "",
         "description": "Oi Pep, investir \u00e9 a chave para multiplicar seu dinheiro. N\u00e3o deixe sua grana parada!"
       }
     ]

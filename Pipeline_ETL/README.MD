@@ -29,7 +29,7 @@ Este projeto em Python é uma aplicação simples feita de acordo com o desafio 
 
 ## Estrutura do Projeto
 - **generate_messages.py**: O script principal responsável pela execução do projeto.
-- **SDW2023.csv**: O arquivo CSV contendo os IDs dos usuários.
+- **person_ids.csv**: O arquivo CSV contendo os IDs dos usuários.
 - **ids.json**: O arquivo JSON contendo informações detalhadas sobre os usuários.
 - **mensagens.json**: O arquivo JSON onde as mensagens geradas são armazenadas.
 

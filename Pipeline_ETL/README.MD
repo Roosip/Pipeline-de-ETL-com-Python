@@ -3,7 +3,7 @@
 ---
 
 ## Descrição
-Este projeto em Python é uma aplicação simples para a geração de mensagens personalizadas para usuários com base em dados fornecidos em um arquivo CSV e em um arquivo JSON. A aplicação extrai os IDs dos usuários de um arquivo CSV, busca informações detalhadas sobre esses usuários em um arquivo JSON e gera mensagens personalizadas para cada usuário. As mensagens geradas são então adicionadas a um arquivo JSON de histórico.
+Este projeto em Python é uma aplicação simples feita de acordo com o desafio de código da Digital Inovation One, que consiste na geração de mensagens personalizadas para usuários com base em dados fornecidos em um arquivo CSV e em um arquivo JSON. A aplicação extrai os IDs dos usuários de um arquivo CSV, busca informações detalhadas sobre esses usuários em um arquivo JSON e gera mensagens personalizadas para cada usuário. As mensagens geradas são então adicionadas a um arquivo JSON de histórico.
 
 ## Funcionalidades
 - Extração dos IDs dos usuários de um arquivo CSV.
